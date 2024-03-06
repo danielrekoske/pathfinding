@@ -1,0 +1,14 @@
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.AssemblyInfoInputs.cache
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.AssemblyInfo.cs
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.csproj.CoreCompileInputs.cache
+/Users/danielrekoske/Documents/GitHub/pathfinding/bin/Debug/net8.0/pathfinding
+/Users/danielrekoske/Documents/GitHub/pathfinding/bin/Debug/net8.0/pathfinding.deps.json
+/Users/danielrekoske/Documents/GitHub/pathfinding/bin/Debug/net8.0/pathfinding.runtimeconfig.json
+/Users/danielrekoske/Documents/GitHub/pathfinding/bin/Debug/net8.0/pathfinding.dll
+/Users/danielrekoske/Documents/GitHub/pathfinding/bin/Debug/net8.0/pathfinding.pdb
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.dll
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/refint/pathfinding.dll
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.pdb
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.genruntimeconfig.cache
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/ref/pathfinding.dll
