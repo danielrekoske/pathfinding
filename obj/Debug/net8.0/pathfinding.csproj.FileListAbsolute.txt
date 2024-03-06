@@ -12,3 +12,4 @@
 /Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.pdb
 /Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.genruntimeconfig.cache
 /Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/ref/pathfinding.dll
+/Users/danielrekoske/Documents/GitHub/pathfinding/obj/Debug/net8.0/pathfinding.sourcelink.json

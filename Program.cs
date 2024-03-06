@@ -2,21 +2,13 @@
 {
     static void Main(string[] args)
     {
-        // Define maze size
-        int width = 10;
-        int height = 10;
+        // Generate a graph
+        Graph graph = Graph.GenerateGraph(6, 8);
+        graph.PrintGraph();
 
-        // Generate maze
-        MazeGenerator generator = new MazeGenerator(width, height);
-        generator.PrintMaze();
-
-        // Solve maze using DFS
-        char[,] maze = generator.GetMaze();
-        MazeSolver solverDFS = new MazeSolver(maze);
-        solverDFS.DFS(0, 0);
-
-        // Solve maze using BFS
-        MazeSolver solverBFS = new MazeSolver(maze);
-        solverBFS.BFS(0, 0);
+        // Perform Floyd-Warshall algorithm
+        FloydWarshall floydWarshall = new FloydWarshall(graph);
+        floydWarshall.FindShortestPaths();
+        floydWarshall.PrintShortestPaths();
     }
 }
